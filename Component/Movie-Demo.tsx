@@ -7,6 +7,6 @@ import TopMovies from "./top-rated-india/top-rated-india";
 export default (
     <>
         <NavBar />
-        <IndiaTopMovies/>
+        <App/>
     </>
 )
