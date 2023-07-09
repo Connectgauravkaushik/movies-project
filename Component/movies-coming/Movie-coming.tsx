@@ -16,7 +16,7 @@ function App() {
             <div style={{ float:'left',padding:'1em' ,textAlign:'center' }} > 
              <img className='small'  src={data.posterurl} alt="Avatar" style={{...posterStyle}}></img>
                <h2>{data.title}</h2>
-               <p>Add to favorite</p>
+               <p>Add to favorite op</p>
             </div>
           ))}
         </div>
